@@ -43,7 +43,7 @@ library
 
   build-depends:
     base          == 4.*,
-    semigroupoids >= 4 && < 6
+    semigroupoids >= 6 && < 7
 
   exposed-modules:
     Data.Eq.Type
